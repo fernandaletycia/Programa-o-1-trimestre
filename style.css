@@ -16,14 +16,5 @@
       } 
 
 
-      .conteudo-principal {
-           display: flex;
-           flex-direction: column;
-           justify-content: center;
-           align-items: center;
-        max-width: 1200px;
-        width: 100%;
-        margin: 0 auto;
-    }
+      
     
->>>>>>> 9ea755961770fc6589dcbfc74a94fba96f7aae40
